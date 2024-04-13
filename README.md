@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">🔭 Graduated with a Bachelor of Computer Science from El Shorouk Academy in 2023.<br>📙Actively learning web development while concurrently building projects.<br>👨‍💻 Most of my projects are available on Github.<br>📝Regularly expanding skills, learning new technologies, particularly in data structures        and algorithms.<br>💬Open to consulting, volunteering, and engaging discussions. Feel free to reach out.</p>
+<p align="left">🎓 Graduated with a Bachelor of Computer Science from El Shorouk Academy in 2023.<br>📙Actively learning web development while concurrently building projects.<br>👨‍💻 Most of my projects are available on Github.<br>📝Regularly expanding skills, learning new technologies, particularly in data structures        and algorithms.<br>💬Open to consulting, volunteering, and engaging discussions. Feel free to reach out.</p>
 
 ###
 

@@ -13,7 +13,7 @@
   <a href="https://discord.com/channels/anas1001" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="43" height="26" alt="discord logo"  />
   </a>
-  <a href="anaselnahef12@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anaselnahef12@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="26" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/+201554581957" target="_blank">
@@ -27,13 +27,15 @@
 
 ###
 
-<img align="right" height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtqMDI0dGd6cXZqY3gyOTNzd3NrcmliY2xhOXFjeDY5cmFxcXo4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq72gPlwox4o2n6/giphy.gif"  />
+<img align="right" height="185" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtqMDI0dGd6cXZqY3gyOTNzd3NrcmliY2xhOXFjeDY5cmFxcXo4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq72gPlwox4o2n6/giphy.gif"  />
 
 ###
 
 <p align="left">🔭 Graduated with a Bachelor of Computer Science from El Shorouk Academy in 2023.<br>📙Actively learning web development while concurrently building projects.<br>👨‍💻 Most of my projects are available on Github.<br>📝Regularly expanding skills, learning new technologies, particularly in data structures        and algorithms.<br>💬Open to consulting, volunteering, and engaging discussions. Feel free to reach out.</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">Programming languages</h2>
 
@@ -86,7 +88,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="laravel logo"  />
+  <img src="https://laravel.com/img/logomark.min.svg" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
